@@ -21,8 +21,9 @@
 
 <sup><a id="ref010">10</a></sup>???. ???. Retrieved from [ Retrieved from [gym.openai.com](https://gym.openai.com/envs/CartPole-v1/).
 
-<sup><a id="ref011">11</a></sup>???. ???. Retrieved from [ Retrieved from [web.stanford.edu](https://web.stanford.edu/class/psych209/Readings/SuttonBartoIPRLBook2ndEd.pdf).
+<sup><a id="ref011">11</a></sup>???. ???. Retrieved from [ Retrieved from [web.stanford.edu](https://web.stanford.edu/class/psych209/Readings/SuttonBartoIPRLBook2ndEd.pdf).  
 ---
+
 
 ## Notes:
 Rochester Institute of Technology formatted [reference style](https://library.rit.edu/citations/apa/case-study-apa). Full document.

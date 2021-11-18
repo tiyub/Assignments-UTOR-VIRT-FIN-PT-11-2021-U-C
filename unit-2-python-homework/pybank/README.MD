@@ -16,5 +16,13 @@
 
 <sup><a id="ref008">8</a></sup>How do I force git pull to overwrite local files?. Retrieved from [git-tower.com](https://www.git-tower.com/learn/git/faq/git-force-pull/).
 
+---
+<sup><a id="ref009">9</a></sup>???. ???. Retrieved from [ai4finance.medium.com](hhttps://ai4finance.medium.com/a-data-scientists-approach-for-algorithmic-trading-using-deep-reinforcement-learning-an-be8da40b2230).
+
+<sup><a id="ref010">10</a></sup>???. ???. Retrieved from [ Retrieved from [gym.openai.com](https://gym.openai.com/envs/CartPole-v1/).
+
+<sup><a id="ref011">11</a></sup>???. ???. Retrieved from [ Retrieved from [web.stanford.edu](https://web.stanford.edu/class/psych209/Readings/SuttonBartoIPRLBook2ndEd.pdf).
+---
+
 ## Notes:
 Rochester Institute of Technology formatted [reference style](https://library.rit.edu/citations/apa/case-study-apa). Full document.

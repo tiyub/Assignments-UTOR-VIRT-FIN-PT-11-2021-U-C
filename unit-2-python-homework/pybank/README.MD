@@ -16,7 +16,7 @@
 
 <sup><a id="ref008">8</a></sup> How do I force git pull to overwrite local files?. Retrieved from [git-tower.com](https://www.git-tower.com/learn/git/faq/git-force-pull/).
 
-** 3.2 Python/Pandas: session links
+## 3.2 Python/Pandas: session links
 <sup><a id="ref009">9</a></sup> ???. ???. Retrieved from [ai4finance.medium.com](hhttps://ai4finance.medium.com/a-data-scientists-approach-for-algorithmic-trading-using-deep-reinforcement-learning-an-be8da40b2230).
 
 <sup><a id="ref010">10</a></sup> ???. ???. Retrieved from [ Retrieved from [gym.openai.com](https://gym.openai.com/envs/CartPole-v1/).
@@ -27,7 +27,7 @@
 
 <sup><a id="ref013">13</a></sup> ranaroussi (2019-11-14). Yahoo! Finance market data downloader. Retrieved from [github.com](https://github.com/ranaroussi/yfinance).    
 
-<sup><a id="ref014">14</a></sup> Mackie, Jasen (2021-07-30).A Personal Portfolio Allocation Approach. Retrieved from [opensourcequant.wordpress.com](https://opensourcequant.wordpress.com/2021/07/30/a-personal-portfolio-allocation-approach/).   
+<sup><a id="ref014">14</a></sup> Mackie, Jasen (2021-07-30). A Personal Portfolio Allocation Approach. Retrieved from [opensourcequant.wordpress.com](https://opensourcequant.wordpress.com/2021/07/30/a-personal-portfolio-allocation-approach/).   
 
 
 

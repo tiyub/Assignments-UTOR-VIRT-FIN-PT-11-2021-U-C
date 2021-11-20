@@ -1,5 +1,7 @@
 ## References
 
+Used to inform mian.py:
+
 <sup><a id="ref001">1</a></sup> wjandrea (2020-02-20). How to find the cumulative sum of numbers in a list?. Retrieved from [stackoverflow.com](https://stackoverflow.com/questions/15889131/how-to-find-the-cumulative-sum-of-numbers-in-a-list).
 
 <sup><a id="ref002">2</a></sup> Lenka, Chinmoy (2020-08-20). Python program to find Cumulative sum of a list. Retrieved from [geeksforgeeks.org](https://www.geeksforgeeks.org/python-program-to-find-cumulative-sum-of-a-list/).
@@ -16,6 +18,12 @@
 
 <sup><a id="ref008">8</a></sup> How do I force git pull to overwrite local files?. Retrieved from [git-tower.com](https://www.git-tower.com/learn/git/faq/git-force-pull/).
 
+<sup><a id="ref015">15</a></sup> ofunkey (2019-06-13). python-challenge/PyBank/main.py. Retrieved from [github.com](https://github.com/ofunkey/python-challenge/blob/master/PyBank/main.py).
+
+<sup><a id="ref016">16</a></sup> shrawantee (2018-07-17). Python-PyBank-and-PyPoll/HomeworkPython/PyBank/PyBank.py. Retrieved from [github.com](https://github.com/shrawantee/Python-PyBank-and-PyPoll/blob/master/HomeworkPython/PyBank/PyBank.py).
+
+<sup><a id="ref017">17</a></sup> rohitrao1 (2018-08-24). python-challenge/PyBank/main.py. Retrieved from [github.com](https://github.com/rohitrao1/python-challenge/blob/master/PyBank/main.py.
+
 ## 3.2 Python/Pandas: session links
 <sup><a id="ref009">9</a></sup> ???. ???. Retrieved from [ai4finance.medium.com](hhttps://ai4finance.medium.com/a-data-scientists-approach-for-algorithmic-trading-using-deep-reinforcement-learning-an-be8da40b2230).
 
@@ -27,7 +35,9 @@
 
 <sup><a id="ref013">13</a></sup> ranaroussi (2019-11-14). Yahoo! Finance market data downloader. Retrieved from [github.com](https://github.com/ranaroussi/yfinance).    
 
-<sup><a id="ref014">14</a></sup> Mackie, Jasen (2021-07-30). A Personal Portfolio Allocation Approach. Retrieved from [opensourcequant.wordpress.com](https://opensourcequant.wordpress.com/2021/07/30/a-personal-portfolio-allocation-approach/).   
+<sup><a id="ref014">14</a></sup> Mackie, Jasen (2021-07-30). A Personal Portfolio Allocation Approach. Retrieved from [opensourcequant.wordpress.com](https://opensourcequant.wordpress.com/2021/07/30/a-personal-portfolio-allocation-approach/).
+
+<sup><a id="ref015">15</a></sup> de Prado, Marcos Lopez (2019-07-17). Building Diversified Portfolios that Outperform Out-of-Sample. Retrieved from [ssrn.com](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2708678).  
 
 
 

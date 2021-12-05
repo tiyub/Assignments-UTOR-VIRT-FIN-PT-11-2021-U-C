@@ -72,9 +72,9 @@ Analyze the data to see if any of the portfolios outperform the stock market (i.
 
 #### Risk Analysis
 
-1. Create a box plot for each of the returns. 
+1. Create a box plot for each of the returns.
 
-2. Calculate the standard deviation for each portfolio. 
+2. Calculate the standard deviation for each portfolio.
 
 3. Determine which portfolios are riskier than the S&P TSX 60
 
@@ -219,6 +219,105 @@ Harold is ecstatic that you were able to help him prove that the algorithmic tra
 ##### To receive all points, your code must:
 
 * Be well commented with concise, relevant notes that other developers can understand. (10 points)
+
+---
+
+## References
+
+<details open><summary>Disclose</summary>  
+
+#### Listing  
+
+<sup><a id="ref001">1</a></sup> Green, Adam (2020-12-07). Customizing Jupyter Lab Shortcuts. Retrieved from [towardsdatascience.com](https://towardsdatascience.com/customizing-jupyter-lab-shortcuts-6857492647d2).
+
+<sup><a id="ref005">5</a></sup> (2020-12-07). API Reference: pandas.read_csv. Retrieved from [pandas.pydata.org](https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.read_csv.html#).
+
+<sup><a id="ref006">6</a></sup> Zickert, Frank (2018-10-19). How to Setup Your JupyterLab Project Environment. Retrieved from [towardsdatascience.com](https://towardsdatascience.com/how-to-setup-your-jupyterlab-project-environment-74909dade29b).
+
+<sup><a id="ref008">8</a></sup> Zickert, Frank (2018-10-19). Check And Count Missing Values In Pandas Python. Retrieved from [DataScience Made Simple](https://www.datasciencemadesimple.com/check-count-missing-values-pandas-python-2/).
+
+<sup><a id="ref009">9</a></sup> API Reference: pandas.Series.dropna. Retrieved from [pandas.pydata.org](https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.Series.dropna.html#pandas.Series.dropna).
+
+<sup><a id="ref010">10</a></sup> User Guide: Working with missing data. Retrieved from [pandas.pydata.org](https://pandas.pydata.org/pandas-docs/stable/user_guide/missing_data.html#dropping-axis-labels-with-missing-data-dropna).
+
+<sup><a id="ref011">11</a></sup> (2021-07-16). How to Check the Data Type in Pandas DataFrame. Retrieved from [Data To Fish](https://datatofish.com/data-type-pandas-dataframe/).
+
+<sup><a id="ref012">12</a></sup> Inada,Isshin. Removing characters from columns in Pandas DataFrame. Retrieved from [skytowner.com](https://skytowner.com/explore/removing_characters_from_columns_in_pandas_dataframe).
+
+<sup><a id="ref013">13</a></sup> API Reference: pandas.Series.dropna. Retrieved from [pandas.pydata.org](https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.Series.dropna.html#pandas.Series.dropna).
+
+<sup><a id="ref014">14</a></sup> User Guide: Working with missing data. Retrieved from [pandas.pydata.org](hhttps://pandas.pydata.org/pandas-docs/stable/user_guide/missing_data.html#dropping-axis-labels-with-missing-data-dropna).
+
+<sup><a id="ref015">15</a></sup> User Guide: Working with missing data. Retrieved from [pandas.pydata.org](hhttps://pandas.pydata.org/pandas-docs/stable/user_guide/missing_data.html#dropping-axis-labels-with-missing-data-dropna).
+
+<sup><a id="ref016">16</a></sup>(2021-06-04). How to Convert Strings to Integers in Pandas DataFrame. Retrieved from [datatofish.com](https://datatofish.com/string-to-integer-dataframe/).
+
+<sup><a id="ref017">17</a></sup> Akira (~2021-03-24). FutureWarning: The default value of regex will change from True to False in a future version. Retrieved from [stackoverflow.com](https://stackoverflow.com/questions/66603854/futurewarning-the-default-value-of-regex-will-change-from-true-to-false-in-a-fu).
+
+<sup><a id="ref018">18</a></sup> Chelliah, Indhumathy (2021-02-19). Data Cleaning — How to Handle Missing Values with Pandas. Retrieved from [towardsdatascience.com](https://towardsdatascience.com/data-cleaning-how-to-handle-missing-values-in-pandas-cc8570c446ec).
+
+<sup><a id="ref018">18</a></sup> Metwalli, Sara A. (2020-09-09). Data Visualization 101: How to Choose a Chart Type. Retrieved from [towardsdatascience.com](https://towardsdatascience.com/data-visualization-101-how-to-choose-a-chart-type-9b8830e558d6).
+
+<sup><a id="ref019">19</a></sup> Rune (2021-03-04). Average True Range (ATR) with Python & Pandas | 2.5h Full Course | Part 2/8 | Risk & Return. Retrieved from [YouTube: Learn Python with Rune](https://youtu.be/ZpI-JDfuCs4).
+
+<sup><a id="ref020">20</a></sup> Despa, Valentin (2021-11-18). Intro to Postman | Part 1: Send a Request. Retrieved from [YouTube: Postman](https://www.youtube.com/watch?v=2oOSnxZ28fA).
+
+<sup><a id="ref021">21</a></sup> Aruchamy, Vikram (2021-09-08). How To Plot Correlation Matrix In Pandas Python. Retrieved from [stackvidhya.com](https://www.stackvidhya.com/plot-correlation-matrix-in-pandas-python/).
+
+<sup><a id="ref022">22</a></sup> Zaric, Drazen (2019-04-19). Better Heatmaps and Correlation Matrix Plots in Python. Retrieved from [towardsdatascience.com](https://towardsdatascience.com/better-heatmaps-and-correlation-matrix-plots-in-python-41445d0f2bec).
+
+<sup><a id="ref023">23</a></sup> (2019-09-08). Seaborn Heatmap Using Sns.heatmap() | Python Seaborn Tutorial. Retrieved from [indianaiproduction.com](https://indianaiproduction.com/seaborn-heatmap/).
+
+<sup><a id="ref024">24</a></sup> Zach (2021-04-07). How to Adjust the Figure Size of a Seaborn Plot. Retrieved from [statology.org](https://www.statology.org/seaborn-figure-size/).
+
+<sup><a id="ref025">25</a></sup> Zach (2021-04-08). How to Add a Title to Seaborn Plots (With Examples). Retrieved from [statology.org](https://www.statology.org/seaborn-title/).
+
+<sup><a id="ref026">26</a></sup> Rune (2021-09-14). Calculate the market (S&P 500) BETA with Python for any Stock. Retrieved from [YouTube: Learn Python with Rune](https://www.learnpythonwithrune.org/calculate-the-market-sp-500-beta-with-python-for-any-stock/).
+
+<sup><a id="ref028">28</a></sup> (2021-09-18). Pandas Rename Index: How to Rename a Pandas Dataframe Index. Retrieved from [datagy.io](https://datagy.io/pandas-rename-index/).
+
+<sup><a id="ref029">29</a></sup> (2021-05-29). How to Export Pandas DataFrame to a CSV File. Retrieved from [datatofish.com](https://datatofish.com/export-dataframe-to-csv/).
+
+
+</details>
+
+---
+
+## Supplemental
+
+<details open><summary>Disclose</summary>  
+
+#### Class 4-1 links
+
+<sup><a id="ref001">1</a></sup> junweiluo (2020-02-05). A Whale off the Port(folio). Retrieved from [github.com](https://github.com/junweiluo/PortfolioAnalysis/blob/master/whale_analysis.ipynb).
+
+<sup><a id="ref002">2</a></sup> OliverGeddes (2021-06-10). A Whale off the Port(folio). Retrieved from [github.com](https://github.com/OliverGeddes/Week-4-Homework/blob/main/Starter_Code/whale_analysis.ipynb).
+
+
+<sup><a id="ref003">3</a></sup> DanielT1994 (2021-11-07). A Whale off the Port(folio). Retrieved from [github.com](https://github.com/DanielT1994/PandaHomework/blob/master/Starter_Code/whale_analysis.ipynb).
+
+
+<sup><a id="ref004">4</a></sup> wmtate (2020-10-21). A Whale off the Port(folio). Retrieved from [github.com](https://github.com/wmtate/Whale_Analysis/blob/main/whale_analysis.ipynb).
+
+
+<sup><a id="ref005">5</a></sup> willwillis (2019-08-24). A Whale off the Port(folio). Retrieved from [github.com](https://github.com/willwillis/python-pandas/blob/master/whale_analysis.ipynb).
+
+<sup><a id="ref006">6</a></sup> Green, Adam (2020-12-07). Customizing Jupyter Lab Shortcuts. Retrieved from [towardsdatascience.com](https://towardsdatascience.com/customizing-jupyter-lab-shortcuts-6857492647d2).
+
+<sup><a id="ref007">7</a></sup> (2020-12-07). API Reference: pandas.read_csv. Retrieved from [pandas.pydata.org](https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.read_csv.html#).
+
+<sup><a id="ref008">8</a></sup> Zickert, Frank (2018-10-19). How to Setup Your JupyterLab Project Environment. Retrieved from [towardsdatascience.com](https://towardsdatascience.com/how-to-setup-your-jupyterlab-project-environment-74909dade29b).  
+
+#### Note  
+
+<sup><a id="ref030">30</a></sup> Rune (2018-10-19). Python for Finance: Risk and Return. Retrieved from [LEARN PYTHON WITH RUNE](https://www.learnpythonwithrune.org/python-for-finance-risk-and-return/).
+
+<sup><a id="ref031">31</a></sup> Rune (2021-03-05). Learn Python with Rune. Retrieved from [github.com](https://github.com/LearnPythonWithRune).
+
+<sup><a id="ref031">31</a></sup> Tatan, Vincent (2020-02-03). In 12 minutes: Stock Analysis with Pandas and Scikit-Learn. Retrieved from [aijourn.com](https://aijourn.com/stock-analysis-with-pandas-and-scikit-learn/).
+
+
+</details>
 
 ---
 

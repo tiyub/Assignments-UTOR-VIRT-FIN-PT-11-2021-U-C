@@ -243,4 +243,46 @@ Sample Dashboard:
 
 ---
 
+## References
+
+<details open><summary>Disclose</summary>  
+
+#### Listing  
+
+<sup><a id="ref001">1</a></sup> Green, Adam (2020-12-07). Customizing Jupyter Lab Shortcuts. Retrieved from [towardsdatascience.com](https://towardsdatascience.com/customizing-jupyter-lab-shortcuts-6857492647d2).
+
+<sup><a id="ref005">5</a></sup> (2020-12-07). API Reference: pandas.read_csv. Retrieved from [pandas.pydata.org](https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.read_csv.html#).
+
+<sup><a id="ref006">6</a></sup> Zickert, Frank (2018-10-19). How to Setup Your JupyterLab Project Environment. Retrieved from [towardsdatascience.com](https://towardsdatascience.com/how-to-setup-your-jupyterlab-project-environment-74909dade29b).
+
+<sup><a id="ref008">8</a></sup> Zickert, Frank (2018-10-19). Check And Count Missing Values In Pandas Python. Retrieved from [DataScience Made Simple](https://www.datasciencemadesimple.com/check-count-missing-values-pandas-python-2/).
+
+<sup><a id="ref009">9</a></sup> API Reference: pandas.Series.dropna. Retrieved from [pandas.pydata.org](https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.Series.dropna.html#pandas.Series.dropna).
+
+<sup><a id="ref010">10</a></sup> User Guide: Working with missing data. Retrieved from [pandas.pydata.org](https://pandas.pydata.org/pandas-docs/stable/user_guide/missing_data.html#dropping-axis-labels-with-missing-data-dropna).
+
+<sup><a id="ref011">11</a></sup> (2021-07-16). How to Check the Data Type in Pandas DataFrame. Retrieved from [Data To Fish](https://datatofish.com/data-type-pandas-dataframe/).
+
+</details>
+
+---
+
+## Supplemental
+
+<details open><summary>Disclose</summary>  
+
+#### Note  
+
+<sup><a id="ref100">100</a></sup> Jeffares, Alan (2021-10-14). From Jupyter Notebook to Deployment — A Straightforward Example. Retrieved from [calpaterson.com](https://towardsdatascience.com/from-jupyter-notebook-to-deployment-a-straightforward-example-1838c203a437).
+
+<sup><a id="ref101">101</a></sup> Paterson, Cal (2021-11). An oral history of Bank Python. Retrieved from [github.com](https://calpaterson.com/bank-python.html?utm_medium=email&utm_source=topic+optin&utm_campaign=awareness&utm_content=20211120+prog+nl&mkt_tok=MTA3LUZNUy0wNzAAAAGA2x597x706_jpj_dfLoTer2j_lb7p7OBPqK-oS8pvtoOSr7OU6hpjs-qAaB-0rd4HE4RIsy286eNTnKU-5dHMt-myUCU2ZFTXBPleVsfRtwVNgg).
+
+<sup><a id="ref102">102</a></sup> (2020-07-09). How to Remove Untracked Files in Git. Retrieved from [linuxize.com](https://linuxize.com/post/how-to-remove-untracked-files-in-git/).
+
+<sup><a id="ref103">103</a></sup> (2022-02-09). Deleting a stash in Git. Retrieved from [tempertemper.net](https://www.tempertemper.net/blog/deleting-a-stash-in-git).
+
+</details>
+
+---
+
 © 2021 Trilogy Education Services, a 2U, Inc. brand. All Rights Reserved.

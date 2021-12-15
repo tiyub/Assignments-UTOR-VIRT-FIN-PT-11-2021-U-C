@@ -141,6 +141,8 @@ Sample Dashboard:
 
 ### Submission
 
+<details open><summary>Disclose</summary>  
+
 * Upload two separate notebooks to Github - One for the analysis and one for the dashboard.
 
 * Write a README file to explain how to run and use your dashboard.
@@ -149,11 +151,13 @@ Sample Dashboard:
 
 * **Important Note:** You should not submit your Mapbox access token to Github!
 
----
+</details>  
 
 ---
 
 ### Requirements
+
+<details open><summary>Disclose</summary>  
 
 #### Rental Analysis  (5 points)
 
@@ -240,6 +244,7 @@ Sample Dashboard:
 
 * Be well commented with concise, relevant notes that other developers can understand. (10 points)
 
+</details>
 
 ---
 

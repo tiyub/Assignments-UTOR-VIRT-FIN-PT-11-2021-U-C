@@ -141,7 +141,7 @@ Sample Dashboard:
 
 ### Submission
 
-<details open><summary>Disclose</summary>  
+<details><summary>Disclose</summary>  
 
 * Upload two separate notebooks to Github - One for the analysis and one for the dashboard.
 
@@ -157,7 +157,7 @@ Sample Dashboard:
 
 ### Requirements
 
-<details open><summary>Disclose</summary>  
+<details><summary>Disclose</summary>  
 
 #### Rental Analysis  (5 points)
 
@@ -254,11 +254,11 @@ Sample Dashboard:
 
 #### Listing  
 
-<sup><a id="ref001">1</a></sup> Green, Adam (2020-12-07). Customizing Jupyter Lab Shortcuts. Retrieved from [towardsdatascience.com](https://towardsdatascience.com/customizing-jupyter-lab-shortcuts-6857492647d2).
+<sup><a id="ref001">1</a></sup> hvPlot: Plotting. Retrieved from [hvplot.holoviz.org](https://hvplot.holoviz.org/user_guide/Plotting.html).
 
-<sup><a id="ref005">5</a></sup> (2020-12-07). API Reference: pandas.read_csv. Retrieved from [pandas.pydata.org](https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.read_csv.html#).
+<sup><a id="ref003">3</a></sup>hvplot: Pandas API. Retrieved from [hvplot.holoviz.org](https://hvplot.holoviz.org/user_guide/Pandas_API.html).
 
-<sup><a id="ref006">6</a></sup> Zickert, Frank (2018-10-19). How to Setup Your JupyterLab Project Environment. Retrieved from [towardsdatascience.com](https://towardsdatascience.com/how-to-setup-your-jupyterlab-project-environment-74909dade29b).
+<sup><a id="ref004">4</a></sup> Riley, Andrew (2020-06-10). Advanced Data Visualization in Python with HoloViews. Retrieved from [towardsdatascience.com](https://towardsdatascience.com/advanced-data-visualization-with-holoviews-e7263ad202e).
 
 <sup><a id="ref008">8</a></sup> Zickert, Frank (2018-10-19). Check And Count Missing Values In Pandas Python. Retrieved from [DataScience Made Simple](https://www.datasciencemadesimple.com/check-count-missing-values-pandas-python-2/).
 
@@ -285,6 +285,16 @@ Sample Dashboard:
 <sup><a id="ref102">102</a></sup> (2020-07-09). How to Remove Untracked Files in Git. Retrieved from [linuxize.com](https://linuxize.com/post/how-to-remove-untracked-files-in-git/).
 
 <sup><a id="ref103">103</a></sup> (2022-02-09). Deleting a stash in Git. Retrieved from [tempertemper.net](https://www.tempertemper.net/blog/deleting-a-stash-in-git).
+
+<sup><a id="ref104">105</a></sup> Mackie, Jasen (2022-12-17). re.: plot render native Matplotlib in Pandas vs. HVPlot. Retrieved from [utorvirtfinpt-i0c8572.slack.com](https://app.slack.com/client/T02JB3V1X6V/C02HRPXPTNJ/thread/D02M2JKT6B0-1639582349.056500).
+
+<blockquote style="border-left: 0px solid #ccc; color: rgb(88, 166, 255);"><details><summary>Disclose 105</summary>
+So, people are asking about how to build a plot function that outputs a plot like the ones in the homework assignment. The answer is to call matplotlib natively, instead of pandas plot using df.plot. However, the homework says "using the Pandas plot function." So i am confused, but i dont see how it matters. If your plot uses matplotlib and looks like the plot in the homework then happy days. Now, have we used matplotlib natively to date? Not really. You can refer to these examples for some ideas on how to build matplotlib plots, including subplots and their various configurations - https://matplotlib.org/stable/tutorials/introductory/pyplot.html.
+Start simple...build a plot first...then worry about making it a function which is fairly trivial. You can view the start of office hours today (before and at the end of class) for some ideas. Good luck!
+
+PS - why does df.plot in pandas yield a different looking bar plot than calling matplotlib when calling df.plot uses matplotlib under the hood? Not sure...but there will be some transformation that pandas is doing that does not translate to how the plot is called when using matplotlib natively.</details></blockquote>
+
+<sup><a id="ref106">106</a></sup> SQL Tutorial. Retrieved from [w3schools.com](https://www.w3schools.com/sql/default.asp).
 
 </details>
 

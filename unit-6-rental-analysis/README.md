@@ -260,13 +260,15 @@ Sample Dashboard:
 
 <sup><a id="ref004">4</a></sup> Riley, Andrew (2020-06-10). Advanced Data Visualization in Python with HoloViews. Retrieved from [towardsdatascience.com](https://towardsdatascience.com/advanced-data-visualization-with-holoviews-e7263ad202e).
 
-<sup><a id="ref008">8</a></sup> Zickert, Frank (2018-10-19). Check And Count Missing Values In Pandas Python. Retrieved from [DataScience Made Simple](https://www.datasciencemadesimple.com/check-count-missing-values-pandas-python-2/).
+<sup><a id="ref008">8</a></sup> Madse, Marc Skov (2021-01-26). How do I format yaxis tick labels with comma as thousands separator? Retrieved from [discourse.holoviz.org](https://discourse.holoviz.org/t/how-do-i-format-yaxis-tick-labels-with-comma-as-thousands-seperator/1774).
 
-<sup><a id="ref009">9</a></sup> API Reference: pandas.Series.dropna. Retrieved from [pandas.pydata.org](https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.Series.dropna.html#pandas.Series.dropna).
+<sup><a id="ref010">10</a></sup> van den Oord, Sander (2021-01-26). hvplot call inside function does not display in Jupyter Notebook. Retrieved from [stackoverflow.com](https://stackoverflow.com/questions/65907096/hvplot-call-inside-function-does-not-display-in-jupyter-notebook).
 
-<sup><a id="ref010">10</a></sup> User Guide: Working with missing data. Retrieved from [pandas.pydata.org](https://pandas.pydata.org/pandas-docs/stable/user_guide/missing_data.html#dropping-axis-labels-with-missing-data-dropna).
+<sup><a id="ref011">11</a></sup> Noonan, Ryan (2019-09-19). Python Create Interactive Charts with HoloViews. Retrieved from [youtube.com](https://www.youtube.com/watch?v=TRS8kyOimZI).
 
-<sup><a id="ref011">11</a></sup> (2021-07-16). How to Check the Data Type in Pandas DataFrame. Retrieved from [Data To Fish](https://datatofish.com/data-type-pandas-dataframe/).
+<sup><a id="ref012">12</a></sup> Customizing Plots. Retrieved from [holoviews.org](https://holoviews.org/user_guide/Customizing_Plots.html).
+
+<sup><a id="ref013">13</a></sup> NNK. Pandas – Drop Rows From DataFrame Examples. Retrieved from [sparkbyexamples.com](https://sparkbyexamples.com/pandas/pandas-drop-rows-from-dataframe/).
 
 </details>
 
@@ -290,7 +292,7 @@ Sample Dashboard:
 
 <blockquote style="border-left: 0px solid #ccc; color: rgb(88, 166, 255);"><details><summary>Disclose 105</summary>
 So, people are asking about how to build a plot function that outputs a plot like the ones in the homework assignment. The answer is to call matplotlib natively, instead of pandas plot using df.plot. However, the homework says "using the Pandas plot function." So i am confused, but i dont see how it matters. If your plot uses matplotlib and looks like the plot in the homework then happy days. Now, have we used matplotlib natively to date? Not really. You can refer to these examples for some ideas on how to build matplotlib plots, including subplots and their various configurations - https://matplotlib.org/stable/tutorials/introductory/pyplot.html.
-Start simple...build a plot first...then worry about making it a function which is fairly trivial. You can view the start of office hours today (before and at the end of class) for some ideas. Good luck!
+Start simple...build a plot first...then worry about making it a function which is fairly trivial. You can view the start of office hours today (before and at the end of class) for some ideas. Good luck!  
 
 PS - why does df.plot in pandas yield a different looking bar plot than calling matplotlib when calling df.plot uses matplotlib under the hood? Not sure...but there will be some transformation that pandas is doing that does not translate to how the plot is called when using matplotlib natively.</details></blockquote>
 

@@ -1,3 +1,7 @@
+# Unit 8 - Team 3 - Crypto
+
+A collection of notes/discoveries.
+
 ## Supplemental
 
 <details open><summary>Disclose</summary>  

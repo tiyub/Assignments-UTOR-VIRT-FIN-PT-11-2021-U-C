@@ -41,11 +41,10 @@ Based on the p-value this model does not appear to be a good fit and it forecast
 
 This model points to near term volatility. Depending on technique and risk appetite this indicates a period of large draw down/profit.  
 <br><br>
-# Regression Analysis   
-<br>
+# Regression Analysis  
+
 ## Linear Regression Model  
 
 ![First 20 Predictions vs. True Values](Images/ra001-first_20_predictions.png)  
 
 Having the lower RMSE, the out-of-Sample Root Mean Squared Error of 0.6445805658569028 outperformed the In-Sample Root Mean Squared Error of 0.841994632894117.
-

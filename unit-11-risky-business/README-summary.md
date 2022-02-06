@@ -1,8 +1,12 @@
-## Summary.md, responses to analsysis questions and conclusions are forthcoming as insight/code corrections are commited. Seeking advice from Instructors. 
+# Unit 11 - Risky Business
+ 
+![Credit Risk](Images/credit-risk.jpg)  
+
+### Summary.md, responses to analsysis questions and conclusions are forthcoming as insight/code corrections are commited. Seeking advice from Instructors. 
 
 ## Supplemental  
 
-<details open><summary>Disclose</summary>  
+<details ><summary>Disclose</summary>  
 
 #### Note  
 
